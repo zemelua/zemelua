@@ -1,9 +1,9 @@
 ## Hi there 🌱
 
 <p>
-<img src="assets/card-react.svg">
-<img src="assets/card-accessibility.svg">
-<img src="assets/card-jtanka.svg">
+<img src="assets/card-react.svg" width="280px">
+<img src="assets/card-accessibility.svg" width="280px">
+<img src="assets/card-jtanka.svg" width="280px">
 </p>
 
 <!--
