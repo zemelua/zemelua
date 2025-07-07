@@ -5,11 +5,9 @@ I'm zemelua !
 <p>
 	<a href="#">
 		<img src="assets/card-react.svg" width="282px">
-	</a>
-	<a href="#">
+	</a><a href="#">
 		<img src="assets/card-accessibility.svg" width="282px">
-	</a>
-	<a href="#">
+	</a><a href="#">
 		<img src="assets/card-jtanka.svg" width="282px">
 	</a>
 </p>
