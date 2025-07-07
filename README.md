@@ -1,6 +1,4 @@
-## Hi there 👋
-
-### Skills
+## Hi there 🌱
 
 <p>
 <img src="assets/card-react.svg">
