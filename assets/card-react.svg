@@ -21,10 +21,6 @@
 				padding: 16px;
 			}
 
-			div.container:hover {
-				background-color:rgb(90, 114, 133);
-			}
-
 			div.head {
 				width: 100%;
 				height: fit-content;
