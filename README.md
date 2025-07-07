@@ -3,9 +3,9 @@
 ### Skills
 
 <p>
-<img src="assets/Frame6.svg">
-&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="assets/card-react.svg">
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="assets/card-accessibility.svg">
 </p>
 
 <!--
