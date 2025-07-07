@@ -1,4 +1,4 @@
-## Hi there ( \*ˊᗜˋ)ﾉ ꕤ\*.ﾟ
+## Hi there <img src="assets/paaa.svg">
 
 I'm zemelua !
 
@@ -11,20 +11,6 @@ I'm zemelua !
 </p>
 
 ---
-
-my portfolio is (∩՞ ට  ̫  ට)⊃ ▁▂▃▅▆▇█▓▒ [here](https://zemelua.github.io/portfolio/) !
-
-<!--
-**zemelua/zemelua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+my portfolio is <img style="vertical-align:bottom;" src="assets/beeeeeeeam.svg" /> <a href="https://zemelua.github.io/portfolio/">here</a> !
+</p>
