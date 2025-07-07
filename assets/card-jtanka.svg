@@ -1,0 +1,77 @@
+<svg width="264" height="200" viewBox="0 0 264 200" fill="none"
+	xmlns="http://www.w3.org/2000/svg">
+	<foreignObject x="0" y="0" width="100%" height="100%">
+		<style>
+			* {
+				box-sizing: border-box;
+				margin: 0;
+				padding: 0;
+				font-family: -apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
+			}
+
+			div.container {
+				display: flex;
+				flex-direction: column;
+				gap: 12px;
+				align-items: center;
+				height: 100%;
+				width: 100%;
+				background-color: #F6F8FA;
+				border-radius: 8px;
+				padding: 16px;
+			}
+
+			div.head {
+				width: 100%;
+				height: fit-content;
+				display: flex;
+				align-items: center;
+				gap: 16px;
+			}
+
+			div.icon {
+				width: 40px;
+				height: 40px;
+				display: flex;
+				justify-content: center;
+				align-items: center;
+				background-color: #E7EBEE;
+				border-radius: 6px;
+			}
+
+			h3 {
+				font-size: 17px;
+				color: #1F2328;
+				font-weight: bolder;
+			}
+
+			p {
+				font-size: 16px;
+				color: #1F2328;
+			}
+		</style>
+		<div class="container"
+			xmlns="http://www.w3.org/1999/xhtml">
+			<div class="head">
+				<div class="icon">
+					<svg width="24" height="24" viewBox="0 0 24 24" fill="none"
+						xmlns="http://www.w3.org/2000/svg">
+						<path d="M9 18V5L21 3V16M9 18C9 19.6569 7.65685 21 6 21C4.34315 21 3 19.6569 3 18C3 16.3431 4.34315 15 6 15C7.65685 15 9 16.3431 9 18ZM21 16C21 17.6569 19.6569 19 18 19C16.3431 19 15 17.6569 15 16C15 14.3431 16.3431 13 18 13C19.6569 13 21 14.3431 21 16ZM9 9L21 7" stroke="url(#paint0_linear_25_25)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+						<defs>
+							<linearGradient id="paint0_linear_25_25" x1="2.18182" y1="2.18182" x2="21.8182" y2="21.8182" gradientUnits="userSpaceOnUse">
+								<stop stop-color="#38DDE9"/>
+								<stop offset="1" stop-color="#EF5BE0"/>
+							</linearGradient>
+						</defs>
+					</svg>
+				</div>
+				<h3>j-Tanka</h3>
+			</div>
+			<div>
+				<p>
+					As a hobby, I write tanka — a form of Japanese short poetry. I'm experimenting with ways to express poetry through visuals and interactivity.
+				</p>
+			</div>
+		</div>
+	</foreignObject>
+</svg>
