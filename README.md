@@ -2,9 +2,7 @@
 
 <p>
 <img src="assets/card-react.svg">
-&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="assets/card-accessibility.svg">
-&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="assets/card-jtanka.svg">
 </p>
 
