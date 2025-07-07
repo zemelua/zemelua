@@ -10,6 +10,10 @@ I'm zemelua !
 <img src="assets/mini-card-mc-modding.svg" width="211px" /><img src="assets/mini-card-hakutium.svg" width="211px" /><img src="assets/mini-card-nicomado.svg" width="211px" /><img src="assets/mini-card-sunihive.svg" width="211px" />
 </p>
 
+---
+
+my portfolio is (∩՞ ට  ̫  ට)⊃ ▁▂▃▅▆▇█▓▒ [here](https://zemelua.github.io/portfolio/) !
+
 <!--
 **zemelua/zemelua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
