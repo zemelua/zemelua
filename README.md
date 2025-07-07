@@ -1,4 +1,4 @@
-## Hi there <img src="assets/paaa.svg">
+## Hi there <img style="vertical-align:bottom;" src="assets/paaa.svg">
 
 I'm zemelua !
 
