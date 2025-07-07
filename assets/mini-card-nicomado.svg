@@ -1,0 +1,83 @@
+<svg width="211" height="72" viewBox="0 0 211 72" fill="none"
+	xmlns="http://www.w3.org/2000/svg">
+	<foreignObject x="0" y="0" width="195px" height="100%">
+		<style>
+			* {
+				box-sizing: border-box;
+				margin: 0;
+				padding: 0;
+				font-family: -apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
+			}
+
+			div.container {
+				display: flex;
+				flex-direction: column;
+				gap: 12px;
+				align-items: center;
+				height: 100%;
+				width: 100%;
+				background-color: #F6F8FA;
+				border-radius: 8px;
+				padding: 16px;
+			}
+
+			div.head {
+				width: 100%;
+				height: fit-content;
+				display: flex;
+				align-items: center;
+				gap: 16px;
+			}
+
+			div.icon {
+				width: 40px;
+				height: 40px;
+				display: flex;
+				justify-content: center;
+				align-items: center;
+				background-color: #E7EBEE;
+				border-radius: 6px;
+			}
+
+			h3 {
+				font-size: 17px;
+				color: #1F2328;
+				font-weight: bolder;
+			}
+		</style>
+		<div class="container"
+			xmlns="http://www.w3.org/1999/xhtml">
+			<div class="head">
+				<div class="icon">
+					<svg width="24" height="24" viewBox="0 0 24 24" fill="none"
+						xmlns="http://www.w3.org/2000/svg">
+						<path d="M20 15.0002V8.99919C20.0003 8.64204 19.81 8.31192 19.501 8.13298C19.1917 7.95407 18.8105 7.95367 18.501 8.132L18.002 7.26481L17.502 6.3986C18.4306 5.86358 19.5743 5.86495 20.502 6.40153C21.4295 6.93814 22.0007 7.92865 22 9.00016V15.0002C22 16.7273 21.4198 18.2444 20.332 19.3322C19.2443 20.4199 17.7272 21.0002 16 21.0002C15.4478 21.0002 15.0001 20.5524 15 20.0002C15 19.4479 15.4477 19.0002 16 19.0002C17.2727 19.0002 18.2558 18.5803 18.918 17.9181C19.5802 17.2559 20 16.2728 20 15.0002ZM15 13.0002C15 10.2387 12.7614 8.00016 10 8.00016C7.23858 8.00016 5 10.2387 5 13.0002C5.00009 15.7615 7.23863 18.0002 10 18.0002C12.7614 18.0002 14.9999 15.7615 15 13.0002ZM8.5 10.4015C8.80931 10.223 9.19069 10.223 9.5 10.4015L12.5 12.134C12.8094 12.3126 13 12.6429 13 13.0002C12.9999 13.3574 12.8094 13.6878 12.5 13.8664L9.5 15.5978C9.1906 15.7765 8.8094 15.7765 8.5 15.5978C8.19067 15.4192 8 15.0888 8 14.7316V11.2677C8.00008 10.9106 8.19066 10.5801 8.5 10.4015ZM18.501 8.132C18.0225 8.40769 17.4105 8.24327 17.1348 7.76481C16.8591 7.28634 17.0236 6.67437 17.502 6.3986L18.501 8.132ZM17 13.0002C16.9999 16.8661 13.8659 20.0002 10 20.0002C6.13406 20.0002 3.00009 16.8661 3 13.0002C3 9.13417 6.13401 6.00016 10 6.00016C13.866 6.00016 17 9.13417 17 13.0002Z" fill="url(#paint0_linear_31_10)"/>
+						<path d="M19 4C19 4.55228 18.5523 5 18 5C17.4477 5 17 4.55228 17 4C17 3.44772 17.4477 3 18 3C18.5523 3 19 3.44772 19 4Z" fill="url(#paint1_linear_31_10)"/>
+						<path d="M22 4C22 4.55228 21.5523 5 21 5C20.4477 5 20 4.55228 20 4C20 3.44772 20.4477 3 21 3C21.5523 3 22 3.44772 22 4Z" fill="url(#paint2_linear_31_10)"/>
+						<path d="M5 20C5 20.5523 4.55228 21 4 21C3.44772 21 3 20.5523 3 20C3 19.4477 3.44772 19 4 19C4.55228 19 5 19.4477 5 20Z" fill="url(#paint3_linear_31_10)"/>
+						<defs>
+							<linearGradient id="paint0_linear_31_10" x1="2.13636" y1="2.18181" x2="21.7442" y2="22.8788" gradientUnits="userSpaceOnUse">
+								<stop stop-color="#38DDE9"/>
+								<stop offset="1" stop-color="#EF5BE0"/>
+							</linearGradient>
+							<linearGradient id="paint1_linear_31_10" x1="2.13636" y1="2.18181" x2="21.7442" y2="22.8788" gradientUnits="userSpaceOnUse">
+								<stop stop-color="#38DDE9"/>
+								<stop offset="1" stop-color="#EF5BE0"/>
+							</linearGradient>
+							<linearGradient id="paint2_linear_31_10" x1="2.13636" y1="2.18181" x2="21.7442" y2="22.8788" gradientUnits="userSpaceOnUse">
+								<stop stop-color="#38DDE9"/>
+								<stop offset="1" stop-color="#EF5BE0"/>
+							</linearGradient>
+							<linearGradient id="paint3_linear_31_10" x1="2.13636" y1="2.18181" x2="21.7442" y2="22.8788" gradientUnits="userSpaceOnUse">
+								<stop stop-color="#38DDE9"/>
+								<stop offset="1" stop-color="#EF5BE0"/>
+							</linearGradient>
+						</defs>
+					</svg>
+
+				</div>
+				<h3>nicomado</h3>
+			</div>
+		</div>
+	</foreignObject>
+</svg>
