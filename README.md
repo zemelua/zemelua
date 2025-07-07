@@ -4,8 +4,8 @@
 
 <p>
 <img src="assets/Frame6.svg">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="assets/comp.svg">
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="assets/card-react.svg">
 </p>
 
 <!--
